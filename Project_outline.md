@@ -8,7 +8,7 @@ Feature Engineering
 
 Prediction
 
-### Feature Engineering (自己做一下research还有什么可用的feature的方法)
+### Feature Engineering (自己做一下research还有什么可用的feature的方法, 我们需要更多的features)
 
 Sentiment Analysis
 
@@ -34,4 +34,4 @@ Neutral Network - Transferred Learning: Bert ( Yuyu )
 
 Random Forest ( Maggie )
 
-查一下别的方法可以不可以做 (Siyuan)
+Reserch Different method of featuring (Siyuan)
