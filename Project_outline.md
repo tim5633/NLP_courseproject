@@ -10,14 +10,14 @@ Prediction
 
 ### Feature Engineering (自己做一下research还有什么可用的feature的方法, 我们需要更多的features)
 
-n-grams
+N-grams
 
 Sentiment Analysis
   * Sentiment Scores
   
-Word-embeddings 
+Word-embeddings (Done)
 
-Length Analysis
+Length Analysis (Done)
 
 Entity Recognition 
 
@@ -30,11 +30,9 @@ Dealing with imbalanced dataset (Optional)
 ### Words vector
 WoB
 
-TFIDF vectors
+TFIDF vectors (Done)
 
-Embedding
-
-Word2vec
+Word Embedding (Done)
 
 ### Prediction modelling
 
