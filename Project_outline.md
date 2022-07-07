@@ -46,6 +46,8 @@ Random Forest ( Maggie )
 
 Reserch Different method of featuring (Siyuan)
 
+Pytorch (Siyuan)
+
 ### Resources
 1. https://towardsdatascience.com/my-first-nlp-pipeline-99d24aafb773#:~:text=The%20set%20of%20ordered%20stages,is%20called%20the%20NLP%20pipeline
 2. https://www.notion.so/Group-Assignment-9a08a059ddfa47fda594aaab23508b76#24df875d503e49c1a7f8642e16ddc2aa
